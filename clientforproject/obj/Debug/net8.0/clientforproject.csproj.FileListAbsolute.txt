@@ -1,0 +1,14 @@
+C:\mmo\GAME\UTIL\clientforproject\clientforproject\bin\Debug\net8.0\clientforproject.exe
+C:\mmo\GAME\UTIL\clientforproject\clientforproject\bin\Debug\net8.0\clientforproject.deps.json
+C:\mmo\GAME\UTIL\clientforproject\clientforproject\bin\Debug\net8.0\clientforproject.runtimeconfig.json
+C:\mmo\GAME\UTIL\clientforproject\clientforproject\bin\Debug\net8.0\clientforproject.dll
+C:\mmo\GAME\UTIL\clientforproject\clientforproject\bin\Debug\net8.0\clientforproject.pdb
+C:\mmo\GAME\UTIL\clientforproject\clientforproject\obj\Debug\net8.0\clientforproject.GeneratedMSBuildEditorConfig.editorconfig
+C:\mmo\GAME\UTIL\clientforproject\clientforproject\obj\Debug\net8.0\clientforproject.AssemblyInfoInputs.cache
+C:\mmo\GAME\UTIL\clientforproject\clientforproject\obj\Debug\net8.0\clientforproject.AssemblyInfo.cs
+C:\mmo\GAME\UTIL\clientforproject\clientforproject\obj\Debug\net8.0\clientforproject.csproj.CoreCompileInputs.cache
+C:\mmo\GAME\UTIL\clientforproject\clientforproject\obj\Debug\net8.0\clientforproject.dll
+C:\mmo\GAME\UTIL\clientforproject\clientforproject\obj\Debug\net8.0\refint\clientforproject.dll
+C:\mmo\GAME\UTIL\clientforproject\clientforproject\obj\Debug\net8.0\clientforproject.pdb
+C:\mmo\GAME\UTIL\clientforproject\clientforproject\obj\Debug\net8.0\clientforproject.genruntimeconfig.cache
+C:\mmo\GAME\UTIL\clientforproject\clientforproject\obj\Debug\net8.0\ref\clientforproject.dll

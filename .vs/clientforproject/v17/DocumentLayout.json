@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\mmo\\GAME\\UTIL\\clientforproject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D27140CB-C720-4CD2-968A-0A34BEAF8E23}|clientforproject\\clientforproject.csproj|c:\\mmo\\game\\util\\clientforproject\\clientforproject\\slots\\slotmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D27140CB-C720-4CD2-968A-0A34BEAF8E23}|clientforproject\\clientforproject.csproj|solutionrelative:clientforproject\\slots\\slotmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D27140CB-C720-4CD2-968A-0A34BEAF8E23}|clientforproject\\clientforproject.csproj|c:\\mmo\\game\\util\\clientforproject\\clientforproject\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D27140CB-C720-4CD2-968A-0A34BEAF8E23}|clientforproject\\clientforproject.csproj|solutionrelative:clientforproject\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D27140CB-C720-4CD2-968A-0A34BEAF8E23}|clientforproject\\clientforproject.csproj|c:\\mmo\\game\\util\\clientforproject\\clientforproject\\slots\\wildcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D27140CB-C720-4CD2-968A-0A34BEAF8E23}|clientforproject\\clientforproject.csproj|solutionrelative:clientforproject\\slots\\wildcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D27140CB-C720-4CD2-968A-0A34BEAF8E23}|clientforproject\\clientforproject.csproj|c:\\mmo\\game\\util\\clientforproject\\clientforproject\\slots\\slot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D27140CB-C720-4CD2-968A-0A34BEAF8E23}|clientforproject\\clientforproject.csproj|solutionrelative:clientforproject\\slots\\slot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D27140CB-C720-4CD2-968A-0A34BEAF8E23}|clientforproject\\clientforproject.csproj|c:\\mmo\\game\\util\\clientforproject\\clientforproject\\slots\\pineapple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D27140CB-C720-4CD2-968A-0A34BEAF8E23}|clientforproject\\clientforproject.csproj|solutionrelative:clientforproject\\slots\\pineapple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D27140CB-C720-4CD2-968A-0A34BEAF8E23}|clientforproject\\clientforproject.csproj|c:\\mmo\\game\\util\\clientforproject\\clientforproject\\slots\\banana.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D27140CB-C720-4CD2-968A-0A34BEAF8E23}|clientforproject\\clientforproject.csproj|solutionrelative:clientforproject\\slots\\banana.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D27140CB-C720-4CD2-968A-0A34BEAF8E23}|clientforproject\\clientforproject.csproj|c:\\mmo\\game\\util\\clientforproject\\clientforproject\\slots\\apple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D27140CB-C720-4CD2-968A-0A34BEAF8E23}|clientforproject\\clientforproject.csproj|solutionrelative:clientforproject\\slots\\apple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D27140CB-C720-4CD2-968A-0A34BEAF8E23}|clientforproject\\clientforproject.csproj|c:\\mmo\\game\\util\\clientforproject\\clientforproject\\deposit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D27140CB-C720-4CD2-968A-0A34BEAF8E23}|clientforproject\\clientforproject.csproj|solutionrelative:clientforproject\\deposit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D27140CB-C720-4CD2-968A-0A34BEAF8E23}|clientforproject\\clientforproject.csproj|c:\\mmo\\game\\util\\clientforproject\\clientforproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D27140CB-C720-4CD2-968A-0A34BEAF8E23}|clientforproject\\clientforproject.csproj|solutionrelative:clientforproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Apple.cs",
+              "DocumentMoniker": "C:\\mmo\\GAME\\UTIL\\clientforproject\\clientforproject\\Slots\\Apple.cs",
+              "RelativeDocumentMoniker": "clientforproject\\Slots\\Apple.cs",
+              "ToolTip": "C:\\mmo\\GAME\\UTIL\\clientforproject\\clientforproject\\Slots\\Apple.cs",
+              "RelativeToolTip": "clientforproject\\Slots\\Apple.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T20:13:33.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Slot.cs",
+              "DocumentMoniker": "C:\\mmo\\GAME\\UTIL\\clientforproject\\clientforproject\\Slots\\Slot.cs",
+              "RelativeDocumentMoniker": "clientforproject\\Slots\\Slot.cs",
+              "ToolTip": "C:\\mmo\\GAME\\UTIL\\clientforproject\\clientforproject\\Slots\\Slot.cs",
+              "RelativeToolTip": "clientforproject\\Slots\\Slot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T20:12:54.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Banana.cs",
+              "DocumentMoniker": "C:\\mmo\\GAME\\UTIL\\clientforproject\\clientforproject\\Slots\\Banana.cs",
+              "RelativeDocumentMoniker": "clientforproject\\Slots\\Banana.cs",
+              "ToolTip": "C:\\mmo\\GAME\\UTIL\\clientforproject\\clientforproject\\Slots\\Banana.cs",
+              "RelativeToolTip": "clientforproject\\Slots\\Banana.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T20:12:52.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Deposit.cs",
+              "DocumentMoniker": "C:\\mmo\\GAME\\UTIL\\clientforproject\\clientforproject\\Deposit.cs",
+              "RelativeDocumentMoniker": "clientforproject\\Deposit.cs",
+              "ToolTip": "C:\\mmo\\GAME\\UTIL\\clientforproject\\clientforproject\\Deposit.cs",
+              "RelativeToolTip": "clientforproject\\Deposit.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T19:40:11.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "gameManager.cs",
+              "DocumentMoniker": "C:\\mmo\\GAME\\UTIL\\clientforproject\\clientforproject\\gameManager.cs",
+              "RelativeDocumentMoniker": "clientforproject\\gameManager.cs",
+              "ToolTip": "C:\\mmo\\GAME\\UTIL\\clientforproject\\clientforproject\\gameManager.cs",
+              "RelativeToolTip": "clientforproject\\gameManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T19:33:03.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Wildcard.cs",
+              "DocumentMoniker": "C:\\mmo\\GAME\\UTIL\\clientforproject\\clientforproject\\Slots\\Wildcard.cs",
+              "RelativeDocumentMoniker": "clientforproject\\Slots\\Wildcard.cs",
+              "ToolTip": "C:\\mmo\\GAME\\UTIL\\clientforproject\\clientforproject\\Slots\\Wildcard.cs",
+              "RelativeToolTip": "clientforproject\\Slots\\Wildcard.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T19:31:07.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SlotManager.cs",
+              "DocumentMoniker": "C:\\mmo\\GAME\\UTIL\\clientforproject\\clientforproject\\Slots\\SlotManager.cs",
+              "RelativeDocumentMoniker": "clientforproject\\Slots\\SlotManager.cs",
+              "ToolTip": "C:\\mmo\\GAME\\UTIL\\clientforproject\\clientforproject\\Slots\\SlotManager.cs",
+              "RelativeToolTip": "clientforproject\\Slots\\SlotManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T19:31:06.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Pineapple.cs",
+              "DocumentMoniker": "C:\\mmo\\GAME\\UTIL\\clientforproject\\clientforproject\\Slots\\Pineapple.cs",
+              "RelativeDocumentMoniker": "clientforproject\\Slots\\Pineapple.cs",
+              "ToolTip": "C:\\mmo\\GAME\\UTIL\\clientforproject\\clientforproject\\Slots\\Pineapple.cs",
+              "RelativeToolTip": "clientforproject\\Slots\\Pineapple.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T19:31:04.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\mmo\\GAME\\UTIL\\clientforproject\\clientforproject\\Program.cs",
+              "RelativeDocumentMoniker": "clientforproject\\Program.cs",
+              "ToolTip": "C:\\mmo\\GAME\\UTIL\\clientforproject\\clientforproject\\Program.cs",
+              "RelativeToolTip": "clientforproject\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T20:43:47.904Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
